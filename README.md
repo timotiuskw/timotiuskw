@@ -1,6 +1,6 @@
-<!-- <div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans&pause=30000&color=23F744&background=000000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Timotius+Kelvin+Winarto" alt="Typing SVG" />
-</div> -->
+</div>
 
 <h3 align="center">A passionate developer from Dian Nuswantoro University, Indonesia.</h3>
 
