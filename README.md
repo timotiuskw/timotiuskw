@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Timotius Kelvin Winarto</h1>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans&pause=30000&color=23F744&background=000000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Timotius+Kelvin+Winarto" alt="Typing SVG" />
 </div>
