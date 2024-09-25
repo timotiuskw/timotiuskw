@@ -5,7 +5,7 @@
 <h3 align="center">A passionate developer from Dian Nuswantoro University, Indonesia.</h3>
 
 <div align="center">
-  <img src="https://tenor.com/view/nahida-hug-cute-genshin-impact-nahida-hug-gif-135584818000084935" width="40%">
+  <div class="tenor-gif-embed" data-postid="135584818000084935" data-share-method="host" data-aspect-ratio="0.863454" data-width="100%"><a href="https://tenor.com/view/nahida-hug-cute-genshin-impact-nahida-hug-gif-135584818000084935">Nahida Hug GIF</a>from <a href="https://tenor.com/search/nahida-gifs">Nahida GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   <h3 style="color:#8BF7E8FF">(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</h3>
 </div>
 
