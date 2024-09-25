@@ -5,7 +5,7 @@
 <h3 align="center">A passionate developer from Dian Nuswantoro University, Indonesia.</h3>
 
 <div align="center">
-  <img src="https://tenor.com/view/nahida-hug-cute-genshin-impact-nahida-hug-gif-135584818000084935" width="40%">
+  <img src="https://tenor.com/ka8UUV5o4x.gif" width="40%">
   <h3 style="color:#8BF7E8FF">(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</h3>
 </div>
 
