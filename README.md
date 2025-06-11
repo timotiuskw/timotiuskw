@@ -5,7 +5,6 @@
 <h3 align="center">A passionate developer from Dian Nuswantoro University, Indonesia.</h3>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/AeGxrHHUv8cAAAAd/nahida-hug.gif" width="40%">
   <h3 style="color:#8BF7E8FF">(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</h3>
 </div>
 
